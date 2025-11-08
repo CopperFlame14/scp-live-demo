@@ -20,9 +20,6 @@ export default {
           800: "#1e293b",
           700: "#334155"
         }
-      },
-      backgroundImage: {
-        "gradient-dark": "linear-gradient(to bottom right, #0f172a, #1e293b, #0f172a)"
       }
     }
   },
